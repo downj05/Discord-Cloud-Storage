@@ -1,0 +1,1 @@
+pyinstaller cake2.py -i icon.ico --onefile -n DFS --console

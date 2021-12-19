@@ -1,0 +1,5 @@
+{
+    "mode": "user"
+	"token": "TOKEN",
+	"channel": "CHANNEL_ID"
+}
